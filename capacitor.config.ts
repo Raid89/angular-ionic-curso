@@ -3,7 +3,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
   appName: 'Angular App Curso',
-  webDir: 'www',
+  webDir: 'docs',
   server: {
     androidScheme: 'https'
   }
