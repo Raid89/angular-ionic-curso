@@ -1,0 +1,7 @@
+{
+  "name": "Angular App Curso",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
